@@ -13,7 +13,7 @@ for n=0:1:199
     end
 end
 
-n=1:199;
+n=1:200;
 plot(n,xofn)
 hold on
 plot(n,yofn,'r')
